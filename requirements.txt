@@ -1,0 +1,5 @@
+appium_python_client == 2.1.2
+sauceclient >= 0.2.1
+pytest == 6.2.5
+pytest-xdist
+pytest-randomly
